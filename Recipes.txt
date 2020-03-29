@@ -9,6 +9,9 @@ Beans
 Peas
 
 
+Maze
+
+
 thank you :)
 
 done
