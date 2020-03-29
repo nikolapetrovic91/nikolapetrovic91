@@ -5,5 +5,8 @@ Pizza
 Pasta
 Schnitzel
 
+Beans
+Peas
+
 
 thank you :)
