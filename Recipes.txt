@@ -8,5 +8,6 @@ Schnitzel
 Beans
 Peas
 
+Maze
 
 thank you :)
