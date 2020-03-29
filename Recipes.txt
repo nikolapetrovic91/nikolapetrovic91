@@ -3,3 +3,4 @@ Kitchen:
 
 Pizza
 Pasta
+Schnitzel
