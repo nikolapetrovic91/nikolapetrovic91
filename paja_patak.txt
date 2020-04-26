@@ -6,3 +6,4 @@ frankfurt
 patke
 male patke
 velike patke
+golubi
