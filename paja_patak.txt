@@ -5,3 +5,4 @@ petrovic
 frankfurt
 patke
 male patke
+velike patke
