@@ -7,3 +7,4 @@ patke
 male patke
 velike patke
 golubi
+1 golub
